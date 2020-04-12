@@ -36,5 +36,5 @@ To start the api on your local server
 ### Search movie title  click on filter button to search
 ![](ScreenShots/search.png)  
 ![](ScreenShots/search_res.png)  
-### Logout 
-![](ScreenShots/.png)
+### Logout     http://127.0.0.1:8000/api/rest-auth/logout/      and click on POST button
+![](ScreenShots/logout.png)
