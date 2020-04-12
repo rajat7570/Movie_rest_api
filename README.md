@@ -34,5 +34,5 @@ To start the api on your local server
 ### Accessing indivisual data and can perform update and delete operation  
 ![](ScreenShots/indivi.png)
 ### Search movie title  
-![](ScreenShots/search.png)
-![](ScreenShots/search_regis.png)
+![](ScreenShots/search.png)  
+![](ScreenShots/search_res.png)
