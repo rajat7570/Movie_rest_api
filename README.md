@@ -21,18 +21,20 @@ To start the api on your local server
    * run the server
       > python manage.py runserver
 
-### User visit api
+### User visit api http://127.0.0.1:8000/api/
 ![](ScreenShots/Home.png)
-### User Registration  
+### User Registration  http://127.0.0.1:8000/api/register/
 ![](ScreenShots/registration.png)  
 ### After successful registration  
 ![](ScreenShots/after_regis.png)
-### User Login to api
+### User Login to api        http://127.0.0.1:8000/api/rest-auth/login/
 ![](ScreenShots/Login.png)  
-### Now data in api are visible and user can see all data and can post new data to existing data  
-![](ScreenShots/index.png)
-### Accessing indivisual data and can perform update and delete operation  
+### Now data in api are visible and user can see all data and can post new data to existing data  http://127.0.0.1:8000/api/
+![](ScreenShots/index.png) 
+### Accessing indivisual data and can perform update and delete operation  http://127.0.0.1:8000/api/6/
 ![](ScreenShots/indivi.png)
-### Search movie title  
+### Search movie title  click on filter button to search
 ![](ScreenShots/search.png)  
-![](ScreenShots/search_res.png)
+![](ScreenShots/search_res.png)  
+### Logout 
+![](ScreenShots/.png)
