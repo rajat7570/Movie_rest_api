@@ -21,3 +21,15 @@ To start the api on your local server
    * run the server
       > python manage.py runserver
 
+### User visit api
+![](Screenshots/Home.png)
+### User Registration  
+![](Screenshots/registration.png)  
+### After successful registration  
+![](Screenshots/after_regis.png)
+### User Login to api
+![](Screenshots/Login.png)  
+### Now data in api are visible and user can perform CRUD operation  
+![](Screenshots/Home.png)  
+### Search movie title  
+![](Screenshots/search.png)
